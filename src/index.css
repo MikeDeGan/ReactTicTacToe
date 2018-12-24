@@ -8,6 +8,10 @@ ul {
   padding-left: 30px;
 }
 
+button:focus {
+  font-weight: bold;
+}
+
 .board-row:after {
   clear: both;
   content: '';
